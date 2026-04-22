@@ -1,0 +1,302 @@
+[
+  {
+    "run": 1,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 10.85,
+    "search_ms": 13.63,
+    "ttft_ms": 55.68,
+    "total_ms": 80.18,
+    "under_100ms": true
+  },
+  {
+    "run": 2,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.45,
+    "search_ms": 13.4,
+    "ttft_ms": 55.59,
+    "total_ms": 80.46,
+    "under_100ms": true
+  },
+  {
+    "run": 3,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.01,
+    "embed_ms": 12.84,
+    "search_ms": 12.44,
+    "ttft_ms": 54.71,
+    "total_ms": 80.0,
+    "under_100ms": true
+  },
+  {
+    "run": 4,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.14,
+    "search_ms": 13.74,
+    "ttft_ms": 55.21,
+    "total_ms": 80.11,
+    "under_100ms": true
+  },
+  {
+    "run": 5,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.01,
+    "embed_ms": 12.51,
+    "search_ms": 13.34,
+    "ttft_ms": 54.98,
+    "total_ms": 80.84,
+    "under_100ms": true
+  },
+  {
+    "run": 6,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.97,
+    "search_ms": 12.08,
+    "ttft_ms": 55.38,
+    "total_ms": 79.45,
+    "under_100ms": true
+  },
+  {
+    "run": 7,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.01,
+    "embed_ms": 7.69,
+    "search_ms": 11.63,
+    "ttft_ms": 54.85,
+    "total_ms": 74.18,
+    "under_100ms": true
+  },
+  {
+    "run": 8,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.01,
+    "embed_ms": 11.56,
+    "search_ms": 13.46,
+    "ttft_ms": 55.59,
+    "total_ms": 80.62,
+    "under_100ms": true
+  },
+  {
+    "run": 9,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.13,
+    "search_ms": 13.53,
+    "ttft_ms": 55.5,
+    "total_ms": 80.18,
+    "under_100ms": true
+  },
+  {
+    "run": 10,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 10.97,
+    "search_ms": 13.61,
+    "ttft_ms": 55.09,
+    "total_ms": 79.69,
+    "under_100ms": true
+  },
+  {
+    "run": 11,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.03,
+    "search_ms": 13.55,
+    "ttft_ms": 55.37,
+    "total_ms": 79.97,
+    "under_100ms": true
+  },
+  {
+    "run": 12,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.01,
+    "embed_ms": 10.46,
+    "search_ms": 13.43,
+    "ttft_ms": 55.48,
+    "total_ms": 79.38,
+    "under_100ms": true
+  },
+  {
+    "run": 13,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 10.91,
+    "search_ms": 13.49,
+    "ttft_ms": 55.57,
+    "total_ms": 79.99,
+    "under_100ms": true
+  },
+  {
+    "run": 14,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 10.7,
+    "search_ms": 13.42,
+    "ttft_ms": 55.59,
+    "total_ms": 79.73,
+    "under_100ms": true
+  },
+  {
+    "run": 15,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 12.52,
+    "search_ms": 13.73,
+    "ttft_ms": 55.98,
+    "total_ms": 82.25,
+    "under_100ms": true
+  },
+  {
+    "run": 16,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.78,
+    "search_ms": 13.58,
+    "ttft_ms": 55.5,
+    "total_ms": 80.88,
+    "under_100ms": true
+  },
+  {
+    "run": 17,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 10.64,
+    "search_ms": 13.25,
+    "ttft_ms": 55.55,
+    "total_ms": 79.46,
+    "under_100ms": true
+  },
+  {
+    "run": 18,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.42,
+    "search_ms": 13.5,
+    "ttft_ms": 55.88,
+    "total_ms": 80.82,
+    "under_100ms": true
+  },
+  {
+    "run": 19,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.01,
+    "embed_ms": 12.06,
+    "search_ms": 13.51,
+    "ttft_ms": 55.59,
+    "total_ms": 81.17,
+    "under_100ms": true
+  },
+  {
+    "run": 20,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 12.14,
+    "search_ms": 13.48,
+    "ttft_ms": 55.65,
+    "total_ms": 81.29,
+    "under_100ms": true
+  },
+  {
+    "run": 21,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 12.99,
+    "search_ms": 14.18,
+    "ttft_ms": 56.0,
+    "total_ms": 83.19,
+    "under_100ms": true
+  },
+  {
+    "run": 22,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.01,
+    "embed_ms": 10.58,
+    "search_ms": 14.08,
+    "ttft_ms": 55.92,
+    "total_ms": 80.59,
+    "under_100ms": true
+  },
+  {
+    "run": 23,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.66,
+    "search_ms": 13.58,
+    "ttft_ms": 55.59,
+    "total_ms": 80.85,
+    "under_100ms": true
+  },
+  {
+    "run": 24,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.46,
+    "search_ms": 13.56,
+    "ttft_ms": 55.78,
+    "total_ms": 80.82,
+    "under_100ms": true
+  },
+  {
+    "run": 25,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.01,
+    "embed_ms": 9.94,
+    "search_ms": 13.29,
+    "ttft_ms": 55.37,
+    "total_ms": 78.61,
+    "under_100ms": true
+  },
+  {
+    "run": 26,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.81,
+    "search_ms": 13.66,
+    "ttft_ms": 55.89,
+    "total_ms": 81.38,
+    "under_100ms": true
+  },
+  {
+    "run": 27,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 12.95,
+    "search_ms": 13.65,
+    "ttft_ms": 55.42,
+    "total_ms": 82.04,
+    "under_100ms": true
+  },
+  {
+    "run": 28,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 11.6,
+    "search_ms": 11.1,
+    "ttft_ms": 54.71,
+    "total_ms": 77.43,
+    "under_100ms": true
+  },
+  {
+    "run": 29,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.02,
+    "embed_ms": 12.48,
+    "search_ms": 13.52,
+    "ttft_ms": 55.63,
+    "total_ms": 81.65,
+    "under_100ms": true
+  },
+  {
+    "run": 30,
+    "resolved_query": "নুডুলসএর দাম কত টাকা?",
+    "coref_ms": 0.01,
+    "embed_ms": 11.1,
+    "search_ms": 13.71,
+    "ttft_ms": 55.79,
+    "total_ms": 80.61,
+    "under_100ms": true
+  }
+]
