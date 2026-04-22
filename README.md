@@ -122,7 +122,7 @@ bangla-rag/
 ### Step 1 — Clone and create environment
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/tajwarchy/bangla-rag-speaklar.git
 cd bangla-rag
 python3 -m venv .venv
 source .venv/bin/activate
